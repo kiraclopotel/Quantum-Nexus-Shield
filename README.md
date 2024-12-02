@@ -1,7 +1,7 @@
 Terms and Conditions for Use, Attribution, and Compensation
 Effective Date: 2024
 Owner: Tincu Alin Cristian Alexandru
-Application Name: Entropix1.0
+Application Name: Quantum Nexus Shield
 Contact Email: tialcral@gmail.com
 
 1. Definitions
