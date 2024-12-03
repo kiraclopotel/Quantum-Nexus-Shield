@@ -2,7 +2,7 @@
 
 ## Overview
 Quantum Nexus Shield is an advanced encryption system that combines quantum-inspired stacked encryption with compressed hash functionality. 
-The system achieves perfect entropy (1.0) while allowing efficient distribution of multiple encrypted messages through a single compressed identifier.
+The system achieves perfect entropy (1.0) while allowing efficient distribution of multiple encrypted messages through a single compressed controlled lenght of hash identifier.
 
 ## Core Features
 
