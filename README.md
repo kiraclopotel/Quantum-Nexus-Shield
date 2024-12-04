@@ -421,17 +421,8 @@ Implement proper error handling
 Contributing:
 We welcome contributions to Quantum Nexus Shield.
 
-Support
-For support, please:
 
 Check the documentation
 Review existing issues
 Submit new issues with detailed information
 Contact the developer at | Tialcral@gmail.com |
-Acknowledgments
-Version History
-Planned Features
-Enhanced quantum algorithms
-Advanced compression techniques
-Improved visualization tools
-Extended security features
